@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="StopSlop logo" width="120">
+  <a href="https://stopslop.eu"><img src="logo.png" alt="StopSlop logo" width="120"></a>
   <h1>StopSlop</h1>
   <p><strong>Less AI noise. More business value.</strong></p>
   <p>AI consulting and platform engineering, built around your business.</p>
